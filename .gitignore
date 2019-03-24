@@ -1,5 +1,8 @@
 # custom files
 custom/
+!custom/plugins/example
+!custom/plugins/zsh-syntax-highlighting
+!custom/example.zsh
 
 # temp files directories
 cache/
